@@ -7,7 +7,7 @@
 Summary:	A Python Interface to Asterisk
 Name:		python-%{module}
 Version:	0.4.9
-Release:	9
+Release:	10
 License:	PSF
 Group:		Libraries/Python
 Source0:	https://github.com/rdegges/pyst2/archive/%{version}.tar.gz
